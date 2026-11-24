@@ -1,0 +1,9 @@
+Package: com.tech.pilldotsfix
+Name: PillDotsFix
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: Move recording dots to Dynamic Pill
+Maintainer: Tech
+Author: Tech
+Section: Tweaks
+Depends: mobilesubstrate
